@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework2_mahmmed</string>
+    <string name="build_your_character">Build Your Character!</string>
+    <string name="current_health">Current Health</string>
+    <string name="launch_battle">Spends all your points, then launch into battle!</string>
+    <string name="points_remaining">Points Remaining</string>
+    <string name="current_mana">Current Mana</string>
+    <string name="current_strength">Current Strength</string>
+    <string name="title_activity_battle">BattleActivity</string>
+    <string name="monster_name">Monster Name</string>
+    <string name="black_death">Black Death</string>
+    <string name="decreator">Decreator</string>
+</resources>
